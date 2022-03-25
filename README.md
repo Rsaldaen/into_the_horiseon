@@ -1,6 +1,6 @@
 # into_the_horiseon
 
-intial task was to take the code that was given to us a start refactoring existing code.  Make sure everything is acessible and functioning correctly.  
+intial task was to take the code that was given to us and start refactoring existing code.  Make sure everything is acessible and functioning correctly.  
 
 some of the revisions done include
 
